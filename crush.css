@@ -1,0 +1,25 @@
+body{
+    background-color:palevioletred;
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    text-align: center;
+    margin-top: 100px;
+}
+.buttongroup{
+display: flex;
+justify-content: center;
+margin-top: 50px;
+}
+button{
+    margin: 10px;
+    background-color: red;
+   border-radius: 5px;
+   cursor: pointer;
+   position: relative;
+}
+ 
+button:hover{
+    background-color:aliceblue;
+}
