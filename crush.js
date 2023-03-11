@@ -2,7 +2,7 @@ const button1=document.querySelector(".btn1");
 const button2=document.querySelector(".btn2");
 var text1=document.getElementById("text");
 button1.addEventListener("click",function(event){
-text1.textContent="No choice pre";
+text1.textContent="Papayag karin naman pala pinatagal mo pa";
 event.preventDefault();
 });
 
